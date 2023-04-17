@@ -1,0 +1,7 @@
+{
+  "name": "cap-link-crash-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
